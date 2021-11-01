@@ -1,0 +1,403 @@
+.border-primary {
+  border: 5px solid #84cded !important;
+}
+
+.team-img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
+  justify-content: center;
+  display: block;
+  margin-right: 100px;
+}
+
+.card-img {
+  height: 100%;
+  
+  
+}
+
+.owl-item{
+  margin-left: 50px;
+  text-align: center;
+  align-content: center;
+  margin:auto;
+}
+
+.overflow-text{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.overflow-inner{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.team-carousel-content{
+  display: block;
+  
+  margin-left: 17px;
+  
+  
+
+}
+
+.team-carousel-image-overflow{
+  
+  padding: 0;
+  
+  margin-left: 20px;
+}
+
+.esteemed-legal-advisors-bg-color {
+  background-color: lightblue;
+  padding: 20px 200px 20px 200px;
+}
+
+.practice-areas-bg {
+  background-color: #f4f4f4;
+  padding: 50px 25px;
+}
+
+.border-primary-dark {
+  border: 2px solid #15abe8 !important;
+  margin-top: 50px;
+}
+
+.border-primary-dark2 {
+  border: 2px solid #15abe8 !important;
+  margin-left:auto;
+  margin-right: auto;
+  width:200px;
+}
+.fort{
+  margin-left:50px;
+  width:80px;
+}
+
+.btn-border {
+  border: 5px solid #15abe8 !important;
+}
+.team-carousel-title{
+  font-size: 15px;
+}
+.team-carousel-subtitle{
+  font-size: 10px;
+}
+
+.practice-area-text {
+  margin: 0px 0px;
+  color:white;
+}
+.don{
+  color: black;
+}
+
+p{
+  color: #7f7e7e;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: Poppins,sans-serif;
+  text-align: justify;
+}
+
+
+.practice-area-img {
+  // background-color: #15abe8;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/assets/images/practice-area-img.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 271px;
+  width: 217px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  transition: color 0.3s ease-in-out, background 0.3s ease-in-out, opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out, border 0.3s ease-in-out;
+    transition-property: color, background, opacity, box-shadow, transform, border;
+    transition-duration: 0.3s, 0.3s, 0.3s, 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out, ease-in-out, ease-in-out;
+    transition-delay: 0s, 0s, 0s, 0s, 0s, 0s;
+
+}
+.practice-area-img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 8px 0 rgb(0 0 0 / 20%);
+}
+
+
+.practice-area-img.practice-area-active-img {
+  background: linear-gradient(rgba(59, 202, 246, 0.5), rgba(59, 202, 246, 0.5)),
+    url("/assets/images/practice-area-img.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 271px;
+  width: 217px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.practice-area-img-text-header {
+  margin: 0rem 1rem;
+  padding: 10px 0px;
+}
+
+.practice-area-img-text-paragraph {
+  margin: 0px 21px;
+  padding: 10px 0px;
+  color:white;
+}
+
+.legal-rights-text {
+  margin: 0px 2%;
+}
+
+.ls-icon-left {
+  width: 70%;
+}
+.ls-icon-right {
+  width: 70%;
+  float: right;
+}
+.card-round-img {
+  width: 4rem;
+  height: 4rem;
+}
+
+.card-img1 {
+  background-color: #15abe8;
+  height: 290px;
+}
+
+.card-img2 {
+  background-color: #15e874;
+  height: 290px;
+}
+
+.card-img3 {
+  background-color: #e88615;
+  height: 290px;
+}
+
+.card-img-inside {
+  padding: 235px 5px 0px 5px;
+}
+
+.rounded {
+  border-radius: 1.25rem !important;
+}
+
+.card-title {
+  color: black;
+}
+
+.card-text {
+  color: black;
+}
+
+.do-it-yourself-background {
+  background: url("/assets/images/LawSimpl.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+  width:100%;
+  padding: 3rem;
+  color:white;
+}
+#main-img {
+
+  width:100%
+} 
+
+@media screen and (max-width: 767px) {   
+    #main-img{
+    	background-image: url(/assets/images/image-mobile.png);
+    } 
+}
+@media screen and (min-width: 768px) {      
+  #main-img{      
+    background-image: url(/assets/images/image-mobile.png);
+  } 
+} 
+@media (min-width: 992px) {      
+    #main-img{        
+        background-image: url(/assets/images/LawSimpl.png);
+    } 
+}
+@media (min-width: 1200px) {    
+  #main-img{         
+      background-image: url(/assets/images/LawSimpl.png);
+   } 
+}
+
+.do-it-yourself-card-border-active {
+  border: 5px solid #15abe8;
+  padding: 5% 7%;
+}
+
+.do-it-yourself-card-border-not-active {
+  border: none;
+  padding: 5% 7%;
+}
+
+.advisors-img {
+  border-radius: 50%;
+}
+
+.advisors-background {
+  padding: 50px 20px;
+  margin: 10px 0px;
+  background-color: white;
+}
+
+.vertical-text {
+  display: inline-block;
+  writing-mode: vertical-lr;
+  writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  transform-origin: center;
+  transform: rotate(180deg);
+  padding-top: 2mm;
+  padding-bottom: 3mm;
+}
+
+.vertical-font {
+  letter-spacing: 5px;
+  margin-left: 13px;
+}
+
+.about-img {
+  width: 100%;
+  max-height: 20rem;
+}
+
+.our-clients-text {
+  margin: 0px 18%;
+}
+
+.container-carousel {
+  max-width: 800px;
+  background-color:white;
+  padding: 0;
+}
+
+.review {
+  font-size: 30px;
+  font-weight: 600;
+  padding: 30px 0;
+}
+
+.name {
+  font-size: 18px;
+  color: #15abe8;
+  margin: 0;
+}
+
+.job {
+  color: #c8c8c8;
+  font-size: 14px;
+}
+
+.carousel-inner {
+  max-width: 800px;
+}
+
+.fa-minus {
+  font-size: 14px;
+}
+
+.signature {
+  width: 50%;
+  height: 100%;
+}
+.carousel-round-img {
+  width: 6rem;
+  height: 6rem;
+  float: right;
+}
+
+.carousel-indicators {
+  bottom: -20px;
+  right: 0;
+  margin: 0;
+}
+
+.carousel-indicators [data-bs-target] {
+  height: 10px;
+  border: 2px solid black;
+  width: 10px;
+  background-color: inherit;
+  border-radius: 50%;
+}
+
+.carousel-indicators .active {
+  border: 2px solid transparent;
+  background-color: #15abe8;
+}
+
+.left {
+  color: rgb(20, 20, 20);
+  font-weight: 600;
+}
+
+.right {
+  color: rgb(12, 12, 12);
+  font-weight: 600;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  position: relative;
+}
+
+@media (max-width: 560px) {
+  .review {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .name {
+    font-size: 13px;
+  }
+
+  .job {
+    font-size: 10px;
+  }
+
+  .right {
+    font-size: 12px;
+  }
+
+  .left {
+    font-size: 12px;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    height: 8px;
+    border: 1px solid black;
+    width: 8px;
+    background-color: inherit;
+    border-radius: 50%;
+  }
+
+  .carousel-indicators .active {
+    border: 1px solid transparent;
+    background-color: #15abe8;
+  }
+}
+.col-lg-3{
+  display: block;
+}
+
+h2.text-center.practice-area-img-text-header {
+  font-size: 25px;
+  height: 80px;
+}
+
+

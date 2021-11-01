@@ -1,0 +1,38 @@
+.bg-light {
+    background-color: white !important;
+}
+
+#feedback {
+	height: 0px;
+	width: 90px;
+	position: fixed;
+	right: 0;
+	top: 50%;
+	z-index: 1000;
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+#feedback a {
+	display: block;
+	background:#15abe8;
+	height: 52px;
+    padding-top: 13px;
+    width: 185px;
+	text-align: center;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
+    border-radius: 10px;
+}
+#feedback a:hover {
+	background:#84cded;
+}
+.container{
+	top:0;
+
+}

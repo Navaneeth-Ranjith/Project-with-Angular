@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import "~bootstrap/scss/bootstrap";
+
+/* Importing Datepicker SCSS file. */
+@import "~ngx-bootstrap/datepicker/bs-datepicker";
+// Prime NG
+@import "~primeicons/primeicons.css";
+@import "~primeng/resources/themes/saga-blue/theme.css";
+@import "~primeng/resources/primeng.min.css";
+
+.btn-primary {
+  color: white;
+  background-color: #15abe8;
+  border: #15abe8;
+}
+
+.btn-primary-soft {
+  color: white;
+  background-color: #84cded;
+  border: #84cded;
+}
+
+.btn-secondary-soft {
+  color: white;
+  background-color: #2d2d2f;
+  border: #2d2d2f;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+p {
+  color: #7f7e7e;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26px;
+  font-family: "Poppins", sans-serif;
+}

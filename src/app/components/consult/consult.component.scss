@@ -1,0 +1,662 @@
+.practice-areas-bg {
+    background-color: #15abe8;
+    padding: 50px 25px;
+    height: 500px;
+}
+.border-primary-dark {
+    border: 2px solid #15abe8 !important;
+    margin-top: 50px;
+}
+
+.border-primary-dark2 {
+    border: 2px solid #15abe8 !important;
+    margin: 0px 100%;
+}
+
+.btn-border {
+    border: 5px solid #15abe8 !important;
+}
+
+.practice-area-text {
+    margin: 0px 0px;
+    color:white;
+}
+
+.practice-area-img {
+    // background-color: #15abe8;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/assets/images/practice-area-img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 271px;
+    width: 217px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.toper{
+    width:500px;
+    height: 500px;
+    position: absolute;
+    margin-left: 700px;
+}
+.text-left{
+  float:left;
+  width:400px;
+  
+}
+.mop:after{
+  content:"";
+  display:table;
+  clear:both;
+}
+.border-dark{
+  border:none;
+  box-shadow:rgba(17,12,46,0.15) 0px 48px 100px 0px;
+  float:right;
+}
+
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+}
+
+
+button{
+    color:white;
+    background-color: #15abe8;
+}
+
+
+
+.form-control {
+    color: black !important;
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.form-select {
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+
+
+.border-primary {
+    border: 5px solid #84cded !important;
+}
+.team-img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    justify-content:center;
+    display: block;
+    margin-right: 100px;
+
+}
+
+.card-img {
+    height: 100%;
+    
+    
+}
+
+.owl-item{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.overflow-text{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.overflow-inner{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+  
+  .team-carousel-content{
+    display: block;
+    
+    margin-left: 17px;
+    
+    
+  
+  }
+  
+  .team-carousel-image-overflow{
+    justify-content: space-around;
+    
+    margin-left: 20px;
+  }
+  
+  .esteemed-legal-advisors-bg-color {
+    background-color: white;
+    padding: 15px 5pxPras
+  }
+  
+  .practice-areas-bg {
+    background-color:lightblue;
+    padding: 50px 25px;
+  }
+  
+  .border-primary-dark {
+    border: 2px solid #15abe8 !important;
+    margin-top: 50px;
+  }
+  
+  .border-primary-dark2 {
+    border: 2px solid #15abe8 !important;
+    margin: 0px 100%;
+  }
+  
+  .btn-border {
+    border: 5px solid #15abe8 !important;
+  }
+  
+  .practice-area-text {
+    margin: 0px 0px;
+    color:white;
+  }
+  
+  .practice-area-img {
+    // background-color: #15abe8;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("/assets/images/practice-area-img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 271px;
+    width: 217px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+  
+  .practice-area-img.practice-area-active-img {
+    background: linear-gradient(rgba(59, 202, 246, 0.5), rgba(59, 202, 246, 0.5)),
+      url("/assets/images/practice-area-img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 271px;
+    width: 217px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+  
+  .practice-area-img-text-header {
+    margin: 0rem 1rem;
+    padding: 10px 0px;
+  }
+  
+  .practice-area-img-text-paragraph {
+    margin: 0px 21px;
+    padding: 10px 0px;
+    color:white;
+  }
+  
+  .legal-rights-text {
+    margin: 0px 2%;
+  }
+  
+  .ls-icon-left {
+    width: 70%;
+  }
+  .ls-icon-right {
+    width: 70%;
+    float: right;
+  }
+  .card-round-img {
+    width: 4rem;
+    height: 4rem;
+  }
+  
+  .card-img1 {
+    background-color: #15abe8;
+    height: 290px;
+  }
+  
+  .card-img2 {
+    background-color: #15e874;
+    height: 290px;
+  }
+  
+  .card-img3 {
+    background-color: #e88615;
+    height: 290px;
+  }
+  
+  .card-img-inside {
+    padding: 235px 5px 0px 5px;
+  }
+  
+  .rounded {
+    border-radius: 1.25rem !important;
+  }
+  
+  .card-title {
+    color: black;
+  }
+  
+  .card-text {
+    color: black;
+  }
+  
+  .do-it-yourself-background {
+    background: url("/assets/images/LawSimpl.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 3rem;
+    color: white;
+  }
+  
+  .do-it-yourself-card-border-active {
+    padding: 5% 7%;
+  }
+  
+  .do-it-yourself-card-border-not-active {
+    border: none;
+    padding: 5% 7%;
+  }
+  
+  .advisors-img {
+    border-radius: 50%;
+  }
+  
+  .advisors-background {
+    padding: 50px 20px;
+    margin: 10px 0px;
+    background-color: white;
+  }
+  
+  .vertical-text {
+    display: inline-block;
+    writing-mode: vertical-lr;
+    writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    transform-origin: center;
+    transform: rotate(180deg);
+    padding-top: 2mm;
+    padding-bottom: 3mm;
+  }
+  
+  .vertical-font {
+    letter-spacing: 5px;
+    margin-left: 13px;
+  }
+  
+  .about-img {
+    width: 100%;
+    max-height: 20rem;
+  }
+  
+  .our-clients-text {
+    margin: 0px 18%;
+  }
+  
+  .container-carousel {
+    max-width: 800px;
+    background-color:white;
+    padding: 0;
+  }
+  
+  .review {
+    font-size: 30px;
+    font-weight: 600;
+    padding: 30px 0;
+  }
+  
+  .name {
+    font-size: 18px;
+    color: #15abe8;
+    margin: 0;
+  }
+  
+  .job {
+    color: #c8c8c8;
+    font-size: 14px;
+  }
+  
+  .carousel-inner {
+    max-width: 800px;
+  }
+  
+  .fa-minus {
+    font-size: 14px;
+  }
+  
+  .signature {
+    width: 50%;
+    height: 100%;
+  }
+  .carousel-round-img {
+    width: 60%;
+    height:30%;
+    float: right;
+  }
+  
+  .carousel-indicators {
+    bottom: -20px;
+    right: 0;
+    margin: 0;
+  }
+  
+  .carousel-indicators [data-bs-target] {
+    height: 10px;
+    border: 2px solid black;
+    width: 10px;
+    background-color: inherit;
+    border-radius: 50%;
+  }
+  
+  .carousel-indicators .active {
+    border: 2px solid transparent;
+    background-color: #15abe8;
+  }
+  
+  .left {
+    color: rgb(20, 20, 20);
+    font-weight: 600;
+  }
+  
+  .right {
+    color: rgb(12, 12, 12);
+    font-weight: 600;
+  }
+  
+  .carousel-control-next,
+  .carousel-control-prev {
+    position: relative;
+  }
+  
+  @media (max-width: 560px) {
+    .review {
+      font-size: 14px;
+      font-weight: 600;
+    }
+  
+    .name {
+      font-size: 13px;
+    }
+  
+    .job {
+      font-size: 10px;
+    }
+  
+    .right {
+      font-size: 12px;
+    }
+  
+    .left {
+      font-size: 12px;
+    }
+  
+    .carousel-indicators [data-bs-target] {
+      height: 8px;
+      border: 1px solid black;
+      width: 8px;
+      background-color: inherit;
+      border-radius: 50%;
+    }
+  
+    .carousel-indicators .active {
+      border: 1px solid transparent;
+      background-color: #15abe8;
+    }
+  }
+
+
+
+ 
+img{
+    border:10px solid rgb(255, 249, 249);
+    border-radius: 10.25px;
+}
+.promise {
+    border: 5px solid white;
+    padding-left: 52%;
+    margin-top: -325px;
+    margin-left: -20%;
+    margin-right: 100%;
+    border-radius: 10px;
+    padding-top:50px;
+    height: 150%;
+    width:1050px;
+    
+}
+.gx-3{
+    margin-left: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .faq-heading{
+    border-bottom: #777;
+    text-align:center;
+}
+.faq-container{
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+.hr-line{
+  width: 100%;
+  margin: auto;
+  
+}
+/* Style the buttons that are used to open and close the faq-page body */
+.faq-page {
+    /* background-color: #eee; */
+    color: #444;
+    cursor: pointer;
+    padding: 30px 20px;
+    font-size: 20px;
+    width: 60%;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin: auto;
+    text-decoration: none;
+}
+.faq-body{
+    margin: auto;
+    /* text-align: center; */
+   width: 50%; 
+   padding: auto;
+   
+}
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active,
+.faq-page:hover {
+    background-color: #F9F9F9;
+}
+/* Style the faq-page panel. Note: hidden by default */
+.faq-body {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+.faq-page:after {
+    content: '\02795';
+    /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+.active:after {
+    content: "\2796";
+    /* Unicode character for "minus" sign (-) */
+}
+
+.kio{
+  background-color: white;
+  align-items:flex-end;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 80px;
+  width:450px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  margin-left: 54%;
+  
+
+}
+.container1 {
+  display: flex;
+  flex-direction: column;
+  height: 200px; /* necessary so items know where to wrap */
+}
+div.containerform{
+  order: -1;
+  
+}
+.container1 > div {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+/***************************/
+
+@media screen and (min-width: 800px) {
+  .container1 {
+    flex-wrap: wrap;
+  }
+  div.containerborder {
+    flex-basis: 100%;
+    width: 50%;
+  }
+  div.containerform {
+    flex-basis: 50%;
+    width: 50%;
+    order: 0;
+    justify-content: center;
+    position: relative;
+
+  }
+}
+@media screen and (max-width: 800px) {
+  .container1 {
+    flex-wrap: wrap;
+  }
+  div.containerform {
+    flex-basis: 50%;
+    width: 50%;
+    order: 0;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 60%;
+    position:relative
+
+  }
+}
+
+.containerborder{
+  background-color:transparent;
+  margin-left:-110%;
+  margin-top:130px;
+  position: relative;
+  font-size: 80%;
+  width:50%;
+}
+
+
+
+
+
+.container1{
+  width:100%;
+  display:flex;
+  flex-wrap: wrap;
+}
+@media screen and (max-width:1225px)
+{
+  div.promise{
+    font-size:10px;
+    width:90%;
+  }
+}
+@media screen and (max-width:1225px)
+{
+  div.lol{
+    margin-left: -30%;
+  }
+}
+
+
+
+@media screen and (max-width:1000px)
+{
+  div.containerform{
+    order:1;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-left:-60%;
+  }
+}
+@media screen and (max-width:1000px)
+{
+  div.promise{
+    order:2;
+    
+  }
+}
+@media screen and (max-width:1000px)
+{
+  div.lol{
+    order:2;
+  }
+}
+
+@media screen and (max-width:500px)
+{
+  div.containerform{
+    order:1;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-left:-60%;
+  }
+}
+@media screen and (max-width:100px)
+{
+  div.containerform{
+    order:1;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-left:-60%;
+    width:80px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
